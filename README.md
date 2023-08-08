@@ -1,4 +1,3 @@
-
 # URL Shortening System
 
 A simple URL shortening system built with React JS, Redux, and Material UI. This application allows users to generate short URLs from long URLs, edit the long URLs, delete short URLs, and view a list of all the short URLs created.
